@@ -22,3 +22,11 @@ Este fue mi proyecto de grado realizado en conjunto con Sebastian Montoya, un si
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Goyo0201/SCG_Software.git
+
+## 📸 Capturas de pantalla
+
+### Inicio de sesión
+![Login](login.png)
+
+### Panel principal
+![Dashboard](dashboard.png)
